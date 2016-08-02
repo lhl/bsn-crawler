@@ -1,0 +1,10 @@
+TODO:
+* Crawling/archive framework
+  * RQ feeding scrapy?
+  * store json w/ posts, threads, authors
+
+* ME3MPD
+  * Pull URLs for crawling
+  * Rewrite URLs (Internet Archive? or URL mapper)
+
+* URL mapping parser (Tornado)
